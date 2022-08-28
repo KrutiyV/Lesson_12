@@ -44,7 +44,7 @@ namespace Homework
 
     class Vehicle
     {
-        public string CarBrand = "BMW";
+        public string CarBrand = "BMW"; //we are OOP programmers :) - please, follow to Incapsulation OOP principle, i.e. use property rather than public field
         public virtual void ExhaustSound()
         {
             Console.WriteLine("Bu-Bu-Bu-Bu");
@@ -67,7 +67,7 @@ namespace Homework
 
     class Wheel
     {
-        public void CarWheels()
+        public void CarWheels()//viod name should be more meaningful - i.e. OutputGarWheelsRadius or PrintCarsTypes etc.
         {
             string[] RimRadius = new string[]
             {
@@ -122,8 +122,8 @@ namespace Homework
 
     class BMWm3: Vehicle
     {
-        public int BodyIndex = 1;
-        public string ModelName = "M3";
+        public int BodyIndex = 1;//follow to Incapsulation OOP principle, i.e. use property rather than public field
+        public string ModelName = "M3";//follow to Incapsulation OOP principle, i.e. use property rather than public field
         public override void ExhaustSound()
         {
             Console.WriteLine("Ra-ta-ta-ta");
@@ -132,11 +132,13 @@ namespace Homework
 
     class BMWx5: Vehicle
     {
-        public int BodyIndex = 2;
-        public string ModelName = "X5";
+        public int BodyIndex = 2;//follow to Incapsulation OOP principle, i.e. use property rather than public field
+        public string ModelName = "X5";//follow to Incapsulation OOP principle, i.e. use property rather than public field
+        //one more comment - the BodyIndex and ModelName are applied in all childrens classes - ok, just move them to parental class, follow to princile DRY - Do not Repeat Yourself
         public override void ExhaustSound()
         {
             Console.WriteLine("Br-Br-Br-Br");
         }
     }
 }
+//checked
