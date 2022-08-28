@@ -1,0 +1,15 @@
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\net6.0\InheritancePolymorphism.exe
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\net6.0\InheritancePolymorphism.deps.json
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\net6.0\InheritancePolymorphism.runtimeconfig.json
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\net6.0\InheritancePolymorphism.dll
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\net6.0\InheritancePolymorphism.pdb
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\net6.0\InheritancePolymorphism.csproj.AssemblyReference.cache
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\net6.0\InheritancePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\net6.0\InheritancePolymorphism.AssemblyInfoInputs.cache
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\net6.0\InheritancePolymorphism.AssemblyInfo.cs
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\net6.0\InheritancePolymorphism.csproj.CoreCompileInputs.cache
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\net6.0\InheritancePolymorphism.dll
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\net6.0\refint\InheritancePolymorphism.dll
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\net6.0\InheritancePolymorphism.pdb
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\net6.0\InheritancePolymorphism.genruntimeconfig.cache
+F:\Beetroot.Net\Lesson_12\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\net6.0\ref\InheritancePolymorphism.dll
